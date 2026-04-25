@@ -7,6 +7,23 @@
 1. `01-java-basics`
 2. `02-java-oop`
 3. `03-java-collections`
+4. `04-java-exceptions`
+5. `05-java-file-io`
+6. `06-sql-basics`
+7. `07-spring-boot-basics`
+8. `08-jwt-and-auth`
+9. `09-http-and-rest-api`
+10. `10-redis-basics`
+11. `11-kafka-basics`
+12. `12-backend-infrastructure-overview`
+13. `12-mini-backend-architecture`
+14. `13-task-status-machine`
+15. `14-idempotency-and-request-id`
+16. `15-llm-gateway-basics`
+17. `16-timeout-retry-and-fallback`
+18. `17-rate-limit-and-circuit-breaker`
+19. `18-observability-and-audit-logging`
+20. `19-java-concurrency-and-thread-pool`
 
 ## 你可以怎么使用这些材料
 
@@ -32,12 +49,8 @@ java -cp learning/01-java-basics/examples HelloJava
 - `02-java-oop`：类、对象、封装、构造方法、`this`
 - `03-java-collections`：数组、`List`、`Map`、遍历、简单统计
 
-后续我们可以继续加：
+## 新增阶段说明
 
-- `04-java-exceptions`
-- `05-java-file-io`
-- `06-sql-basics`
-- `07-spring-boot-basics`
-- `08-jwt-and-auth`
-- `09-redis-basics`
-- `10-kafka-basics`
+- `17-rate-limit-and-circuit-breaker`：限流、熔断、系统自我保护
+- `18-observability-and-audit-logging`：结构化日志、traceId、审计与排障
+- `19-java-concurrency-and-thread-pool`：线程池、异步执行、任务调度基础
