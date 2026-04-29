@@ -34,6 +34,10 @@
 28. `27-prompt-engineering-and-model-routing`
 29. `28-docker-and-ai-service-deployment`
 30. `29-lora-and-sft-basics`
+31. `30-llm-app-backend-integration`
+32. `31-multi-model-eval-and-routing-practice`
+33. `32-observability-and-production-guardrails`
+34. `33-ai-chat-frontend-basics-vue`
 
 ## 你可以怎么使用这些材料
 
@@ -74,3 +78,7 @@ java -cp learning/01-java-basics/examples HelloJava
 - `27-prompt-engineering-and-model-routing`：prompt 分层、工具调用规则、模型路由、fallback
 - `28-docker-and-ai-service-deployment`：Docker、镜像、容器、环境变量、健康检查、AI 服务部署
 - `29-lora-and-sft-basics`：SFT、LoRA、微调边界、RAG 与微调区别
+- `30-llm-app-backend-integration`：FastAPI、Agent、RAG、MCP、统一响应、后端整合
+- `31-multi-model-eval-and-routing-practice`：多模型评测、任务分桶、主模型与备模型选择
+- `32-observability-and-production-guardrails`：结构化日志、token usage、限流、配额、生产护栏
+- `33-ai-chat-frontend-basics-vue`：Vue 聊天前端、消息列表、流式输出、Markdown、会话历史
